@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Engineer
 -------------------------
 
-I am a Machine Learning Engineer with one year of experience. I've a master in mechatronics engineering but I realized that I wanted to work in Tech, so I've begun to learn during university by myself (and with some computer science from university). I did some classification and regression projects, I'm working on a Computer Vision project and I also have knowledge in NLP, LLM's and cloud.
+I am a Machine Learning Engineer. I've a master in mechatronics engineering but I realized that I wanted to work in Tech, so I've begun to learn during university by myself (and with some computer science from university). I did classification and regression projects personally and for companies. I also worked on Computer Vision and LLM's projects. I also did deployments of models using Flask and Streamlit for the frontend, Docker to containerize and GCP to make available and manage datas with BigQuery.
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [antonin.brengetto@gmail.com](mailto:antonin.brengetto@gmail.com)
-* 🧠  I'm learning DevOps skills (Docker, AWS...)
 * 🤝  I'm open to collaborating on Machine Learning and Deep Learning projects (from any field I'm very curious)
 
 ### Skills
